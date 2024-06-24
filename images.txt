@@ -6,3 +6,5 @@ apify/actor-node-playwright-chrome:18
 node:20.11-alpine3.19
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
+
+ubuntu:jammy
