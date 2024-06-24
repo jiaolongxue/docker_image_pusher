@@ -9,3 +9,4 @@ node:20.11-alpine3.19
 
 ubuntu:jammy
 apify/actor-node-playwright-chrome:22
+apify/actor-node-playwright-chrome:20
