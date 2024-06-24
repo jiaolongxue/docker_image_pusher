@@ -8,3 +8,4 @@ node:20.11-alpine3.19
 --platform=linux/arm64 xiaoyaliu/alist
 
 ubuntu:jammy
+apify/actor-node-playwright-chrome:22
