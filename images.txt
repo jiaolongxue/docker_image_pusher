@@ -14,3 +14,5 @@ apify/actor-node-playwright-chrome:20
 qdrant/qdrant:v1.9.4
 ollama/ollama:0.1.48
 alpine
+golang:1.19.9
+node:16.18.0
