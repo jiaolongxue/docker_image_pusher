@@ -17,3 +17,4 @@ alpine
 golang:1.19.9
 node:16.18.0
 ghcr.io/ggerganov/llama.cpp:server-cuda
+ghcr.io/ggerganov/llama.cpp:full-cuda
