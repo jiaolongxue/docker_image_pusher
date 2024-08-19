@@ -20,3 +20,4 @@ ghcr.io/ggerganov/llama.cpp:server-cuda
 ghcr.io/ggerganov/llama.cpp:full
 ollama/ollama:0.3.4
 nvidia/cuda:12.1.1-base-ubuntu22.04
+supersonicbi/supersonic:v0.9.4
