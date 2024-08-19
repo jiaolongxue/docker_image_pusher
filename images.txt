@@ -1,23 +1,2 @@
-nginx
-#支持私库
-k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
-xhofe/alist:latest
-apify/actor-node-playwright-chrome:18
-node:20.11-alpine3.19
-#支持指定架构
---platform=linux/arm64 xiaoyaliu/alist
 
-ubuntu:jammy
-apify/actor-node-playwright-chrome:22
-apify/actor-node-playwright-chrome:20
-
-qdrant/qdrant:v1.9.4
-ollama/ollama:0.1.48
-alpine
-golang:1.19.9
-node:16.18.0
-ghcr.io/ggerganov/llama.cpp:server-cuda
-ghcr.io/ggerganov/llama.cpp:full
-ollama/ollama:0.3.4
-nvidia/cuda:12.1.1-base-ubuntu22.04
 supersonicbi/supersonic:v0.9.4
