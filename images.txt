@@ -2,3 +2,4 @@
 supersonicbi/supersonic:0.9.4
 chromadb/chroma:0.5.3
 mysql:8.0
+openjdk:8-jdk
