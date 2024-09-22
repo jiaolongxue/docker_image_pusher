@@ -4,3 +4,4 @@ chromadb/chroma:0.5.3
 mysql:8.0
 openjdk:8-jdk
 langgenius/dify-sandbox:0.2.6
+langgenius/dify-sandbox:0.2.9
