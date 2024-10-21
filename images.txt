@@ -6,4 +6,5 @@
 #langgenius/dify-sandbox:0.2.6
 #langgenius/dify-sandbox:0.2.9
 #xprobe/xinference:v0.16.0
-ollama/ollama:0.3.14
+#ollama/ollama:0.3.14
+xprobe/xinference:v0.15.1
