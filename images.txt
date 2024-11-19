@@ -9,4 +9,5 @@
 #ollama/ollama:0.3.14
 #xprobe/xinference:v0.15.1
 #vllm/vllm-openai:v0.4.2
-qdrant/qdrant:v1.12.1
+#qdrant/qdrant:v1.12.1
+ollama/ollama:0.4.2
