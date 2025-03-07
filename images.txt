@@ -25,5 +25,5 @@
 #infiniflow/infinity:v0.6.0-dev3
 #elasticsearch:8.11.3
 #infiniflow/ragflow:v0.17.0-slim
-infiniflow/ragflow:v0.17.0
-
+#infiniflow/ragflow:v0.17.0
+ollama/ollama:0.5.13
