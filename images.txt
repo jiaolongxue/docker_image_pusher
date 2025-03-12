@@ -27,4 +27,4 @@
 #infiniflow/ragflow:v0.17.0-slim
 #infiniflow/ragflow:v0.17.0
 #ollama/ollama:0.5.13
-langgenius/dify-plugin-daemon:0.0.3-local
+langgenius/dify-plugin-daemon:0.0.4-local
