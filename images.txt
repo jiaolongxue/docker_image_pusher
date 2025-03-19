@@ -28,4 +28,5 @@
 #infiniflow/ragflow:v0.17.0
 #ollama/ollama:0.5.13
 #langgenius/dify-plugin-daemon:0.0.4-local
-vllm/vllm-openai:v0.7.3
+#vllm/vllm-openai:v0.7.3
+langgenius/dify-sandbox:0.2.10
