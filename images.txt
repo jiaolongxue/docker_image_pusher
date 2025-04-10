@@ -34,4 +34,5 @@
 #ubuntu/squid:latest
 #langgenius/dify-plugin-daemon:0.0.6-local
 
-infiniflow/ragflow:v0.17.2
+#infiniflow/ragflow:v0.17.2
+langgenius/dify-plugin-daemon:0.0.7-local
