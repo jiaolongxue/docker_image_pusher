@@ -35,4 +35,5 @@
 #langgenius/dify-plugin-daemon:0.0.6-local
 
 #infiniflow/ragflow:v0.17.2
-langgenius/dify-plugin-daemon:0.0.7-local
+#langgenius/dify-plugin-daemon:0.0.7-local
+node:22-alpine3.21
