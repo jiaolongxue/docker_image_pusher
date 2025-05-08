@@ -37,4 +37,7 @@
 #infiniflow/ragflow:v0.17.2
 #langgenius/dify-plugin-daemon:0.0.7-local
 #node:22-alpine3.21
-xprobe/xinference:v1.4.1
+#xprobe/xinference:v1.4.1
+xprobe/xinference:v1.5.1
+ollama/ollama:0.6.8
+
