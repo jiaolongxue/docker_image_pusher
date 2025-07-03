@@ -43,6 +43,11 @@
 #langgenius/dify-plugin-daemon:0.1.1-local
 #ghcr.io/ggml-org/llama.cpp:full
 #nginx:1.28.0
-ghcr.io/conardli/easy-dataset
-
-
+#ghcr.io/conardli/easy-dataset
+postgres:15-alpine
+redis:6-alpine
+langgenius/dify-sandbox:0.2.12
+langgenius/dify-plugin-daemon:0.1.2-local
+ubuntu/squid:latest
+certbot/certbot
+semitechnologies/weaviate:1.19.0
