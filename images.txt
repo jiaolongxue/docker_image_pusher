@@ -51,4 +51,5 @@
 #ubuntu/squid:latest
 #certbot/certbot
 #semitechnologies/weaviate:1.19.0
-xprobe/xinference:v1.7.1
+#xprobe/xinference:v1.7.1
+minio/minio:latest
