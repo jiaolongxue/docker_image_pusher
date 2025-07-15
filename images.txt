@@ -52,4 +52,8 @@
 #certbot/certbot
 #semitechnologies/weaviate:1.19.0
 #xprobe/xinference:v1.7.1
-minio/minio:latest
+#minio/minio:latest
+
+emqx:5.8.7
+postgres:12
+
