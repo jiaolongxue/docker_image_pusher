@@ -58,3 +58,4 @@ ghcr.io/ggml-org/llama.cpp:full
 #postgres:12
 #langgenius/dify-plugin-daemon:0.1.3-local
 #ollama/ollama:0.9.6
+xprobe/xinference:v1.8.0
