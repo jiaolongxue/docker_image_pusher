@@ -41,7 +41,7 @@
 #xprobe/xinference:v1.5.1
 #ollama/ollama:0.6.8
 #langgenius/dify-plugin-daemon:0.1.1-local
-ghcr.io/ggml-org/llama.cpp:full
+#ghcr.io/ggml-org/llama.cpp:full
 #nginx:1.28.0
 #ghcr.io/conardli/easy-dataset
 #postgres:15-alpine
