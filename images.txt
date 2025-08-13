@@ -61,4 +61,4 @@
 #xprobe/xinference:v1.8.0
 #xprobe/xinference:v1.7.1
 ghcr.io/mendableai/firecrawl
-ghcr.io/mendableai/playwright-service:latest
+#ghcr.io/mendableai/playwright-service:latest
