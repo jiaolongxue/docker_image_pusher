@@ -28,6 +28,8 @@
 
 #infiniflow/ragflow:v0.17.0
 #ollama/ollama:0.5.13
+
+
 #langgenius/dify-plugin-daemon:0.0.4-local
 #vllm/vllm-openai:v0.7.3
 #langgenius/dify-sandbox:0.2.10
@@ -69,5 +71,6 @@ ghcr.io/ggml-org/llama.cpp:full
 #infiniflow/ragflow:v0.20.3
 #ollama/ollama:0.11.10
 #vllm/vllm-openai:v0.10.1
-vllm/vllm-openai:v0.11.0
+#vllm/vllm-openai:v0.11.0
+ollama/ollama:0.12.7
 
