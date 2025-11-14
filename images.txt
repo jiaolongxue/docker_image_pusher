@@ -74,6 +74,7 @@ ghcr.io/ggml-org/llama.cpp:full
 #vllm/vllm-openai:v0.11.0
 #ollama/ollama:0.12.8
 #--platform=arm64 ollama/ollama:0.12.10 
---platform=arm64 vllm/vllm-openai:v0.11.0
-
+#--platform=arm64 vllm/vllm-openai:v0.11.0
+ollama/ollama:0.12.11 
+--platform=arm64 ollama/ollama:0.12.11 
 
