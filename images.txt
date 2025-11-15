@@ -103,3 +103,7 @@ ghcr.io/ggml-org/llama.cpp:full
 
 --platform=arm64  minio/minio:RELEASE.2023-03-20T20-16-18Z
 
+ubuntu:24.04
+
+--platform=arm64   ubuntu:24.04
+
