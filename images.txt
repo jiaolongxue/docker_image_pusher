@@ -107,5 +107,7 @@ ghcr.io/ggml-org/llama.cpp:full
 
 #--platform=arm64   ubuntu:24.04
 
-vllm/vllm-openai:v0.11.2
+#vllm/vllm-openai:v0.11.2
+
+xprobe/xinference:v1.13.0
 
