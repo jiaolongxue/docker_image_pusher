@@ -124,3 +124,6 @@ ghcr.io/ggml-org/llama.cpp:full
 #--platform=arm64  langgenius/qdrant:v1.8.3
 
 --platform=arm64 busybox:latest
+
+ollama/ollama:0.13.1
+--platform=arm64  ollama/ollama:0.13.4
