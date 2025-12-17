@@ -115,10 +115,12 @@ ghcr.io/ggml-org/llama.cpp:full
 #vllm/vllm-openai:v0.8.5
 #ollama/ollama:0.13.1
 
---platform=arm64  langgenius/dify-api:1.11.1
---platform=arm64  langgenius/dify-web:1.11.1
+#--platform=arm64  langgenius/dify-api:1.11.1
+#--platform=arm64  langgenius/dify-web:1.11.1
 
 
---platform=arm64  langgenius/dify-plugin-daemon:0.5.1-local
+#--platform=arm64  langgenius/dify-plugin-daemon:0.5.1-local
 
---platform=arm64  langgenius/qdrant:v1.8.3
+#--platform=arm64  langgenius/qdrant:v1.8.3
+
+--platform=arm64 busybox:latest
