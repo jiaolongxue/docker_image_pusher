@@ -123,7 +123,9 @@ ghcr.io/ggml-org/llama.cpp:full
 
 #--platform=arm64  langgenius/qdrant:v1.8.3
 
---platform=arm64 busybox:latest
+#--platform=arm64 busybox:latest
 
-ollama/ollama:0.13.4
---platform=arm64  ollama/ollama:0.13.4
+#ollama/ollama:0.13.4
+#--platform=arm64  ollama/ollama:0.13.4
+
+--platform=arm64 openeuler/vllm-ascend:0.11.0rc0-torch_npu2.5.1-cann8.1.rc1-python3.10-oe2203lts
