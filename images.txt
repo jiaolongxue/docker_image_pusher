@@ -133,4 +133,6 @@ ghcr.io/ggml-org/llama.cpp:full
 # --platform=arm64 kylemanna/openvpn:2.4
 #--platform=arm64  quay.io/ascend/vllm-ascend:v0.11.0
 
-nginx:1.24.1
+#nginx:1.24.1
+
+ghcr.io/conardli/easy-dataset
