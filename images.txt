@@ -135,4 +135,18 @@ ghcr.io/ggml-org/llama.cpp:full
 
 #nginx:1.24.1
 
-ghcr.io/conardli/easy-dataset
+#ghcr.io/conardli/easy-dataset
+
+busybox:latest
+langgenius/dify-api:1.12.1
+langgenius/dify-web:1.12.1
+postgres:15-alpine
+redis:6-alpine
+langgenius/dify-sandbox:0.2.12
+langgenius/dify-plugin-daemon:0.5.3-local
+ubuntu/squid:latest
+certbot/certbot
+nginx:latest
+semitechnologies/weaviate:1.27.0
+langgenius/qdrant:v1.8.3
+milvusdb/milvus:v2.6.3
