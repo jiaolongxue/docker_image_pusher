@@ -151,4 +151,5 @@ ghcr.io/ggml-org/llama.cpp:full
 #langgenius/qdrant:v1.8.3
 #milvusdb/milvus:v2.6.3
 
-ollama/ollama:0.17.4
+#ollama/ollama:0.17.4
+vllm/vllm-openai:v0.16.0
