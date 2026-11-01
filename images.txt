@@ -163,9 +163,9 @@ ghcr.io/ggml-org/llama.cpp:full
 #nginx:1.31.0
 
 
-langgenius/dify-api:1.18.0
+langgenius/dify-api:hotfix-1.18.0-fix.4
 busybox:latest
-langgenius/dify-web:1.18.0
+langgenius/dify-web:hotfix-1.18.0-fix.4
 postgres:15-alpine
 langgenius/dify-sandbox:0.2.15
 langgenius/dify-agent-local-sandbox:1.18.0
